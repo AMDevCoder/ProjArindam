@@ -1,6 +1,6 @@
 # Project Arindam 2.0 Streamlit Application
 
-##Project Arindam 2.0
+## Project Arindam 2.0
 
 Project Arindam 2.0 is a powerful educational tool designed to streamline various aspects of teaching and learning. This Streamlit application offers features to update student data, recommend websites for research, and generate customized question papers. It leverages advanced technologies and OpenAI's capabilities to make educational processes more efficient.
 
