@@ -9,7 +9,7 @@ import openai
 import time
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "OpenAI_API"
 
 # Download NLTK resources
 nltk.download('punkt')
